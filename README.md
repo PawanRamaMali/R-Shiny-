@@ -24,3 +24,19 @@ house<-read.csv("C:/Users/User/Desktop/data.csv")
 ---
 </details>
 
+<details>
+<summary> 3. What are the different components of grammar of graphics? </summary>
+<br/>
+
+Broadly speaking these are different components in grammar of graphics:
+
+* Data layer
+* Aesthetics layer
+* Geometry layer
+* Facet layer
+* Co-ordinate layer
+* Themes layer
+  
+---
+</details>
+
