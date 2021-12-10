@@ -39,4 +39,19 @@ Broadly speaking these are different components in grammar of graphics:
   
 ---
 </details>
+  
+<details>
+<summary> 4. What is Rmarkdown? What is the use of it? </summary>
+<br/>
+
+RMarkdown is a reporting tool provided by R. With the help of Rmarkdown, you can create high quality reports of your R code. 
+
+The output format of Rmarkdown can be:
+
+* HTML
+* PDF
+* WORD
+  
+---
+</details>
 
