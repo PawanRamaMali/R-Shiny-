@@ -13,4 +13,14 @@ Broadly speaking these are Data Structures available in R:
 ---
 </details>
 
+<details>
+<summary> 2. How can you load a .csv file in R?  </summary>
+<br/>
+
+```r
+house<-read.csv("C:/Users/User/Desktop/data.csv")
+```
+  
+---
+</details>
 
