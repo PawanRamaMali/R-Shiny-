@@ -54,4 +54,16 @@ The output format of Rmarkdown can be:
   
 ---
 </details>
+  
+<details>
+<summary> 5. How do you install a package in R? </summary>
+<br/>
+
+The below command is used to install a package in R:
+```
+install.packages(“<package_name>”)
+```
+  
+---
+</details>
 
